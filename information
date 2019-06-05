@@ -1,0 +1,1 @@
+note:To make this bot work first you need to install node+node package manager(npm) and after you do that you need to edit the botconfig.json with visual studio,atom,nodepad+ etc in botconfig.json replace your token text with a actual bot token then open node command prompt and cd the folder where you saved these files and type node index.js and it should show your bot is online
